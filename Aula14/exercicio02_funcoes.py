@@ -1,5 +1,3 @@
-# numero = int(input("Digite um número inteiro e positivo: "))
-
 def primo(numero):
     i = 1
     contador = 0

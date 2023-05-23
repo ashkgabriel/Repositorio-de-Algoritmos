@@ -7,4 +7,4 @@ for i in numero:
     soma += int(i)
     multiplicacao *= int(i)
 
-print(f"\nMultiplicação = {multiplicacao}\nSoma = {soma}")
+print(f"Multiplicação dos elementos: {multiplicacao}\nSoma dos elementos: {soma}")
