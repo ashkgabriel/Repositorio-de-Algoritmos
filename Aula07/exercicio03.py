@@ -1,3 +1,14 @@
+'''
+Faça um algoritmo que leia o valor do peso e da altura de 20 pessoas. Ao final, o algoritmo deve mostrar:
+
+- O peso médio
+- A altura média
+- O maior e o menor IMC
+Obs: IMC (Índice de Massa Corporal) – calculado a partir da fórmula:
+
+IMC = massa / (altura * altura)
+'''
+
 i = 1
 soma_altura = 0
 soma_peso = 0

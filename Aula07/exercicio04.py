@@ -1,3 +1,10 @@
+'''
+Construa um algoritmo que calcule a média aritmética de um conjunto de números pares que
+forem fornecidos pelo usuário. O valor de finalização será a entrada do número 0. Observe
+que nada impede que o usuário forneça quantos números ímpares quiser, com a ressalva de que
+eles não poderão ser acumulados.
+'''
+
 contador = 0
 i = int(input("Deseja iniciar? (Sim = 1 / Não = 0)"))
 soma_i = 0
